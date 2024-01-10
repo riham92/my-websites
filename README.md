@@ -24,11 +24,11 @@ https://cinatopia.com/
 )
 
 [osm-fleet](
-(https://osm-fleet.ae/
+https://osm-fleet.ae/
 )
 
 [cleanfeel](
-(https://cleanfeel-llc.com/
+https://cleanfeel-llc.com/
 )
 
 
