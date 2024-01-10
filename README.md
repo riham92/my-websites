@@ -2,11 +2,11 @@
 [first one](
 https://palestiniansvoice.com/)
 
-[second one]
-(https://vipcityrides.com/)
+[second one](
+https://vipcityrides.com/)
 
-[third one]
-(https://webeegroup.com/)
+[third one](
+https://webeegroup.com/)
 
 [first one](
 https://palestiniansvoice.com/)
